@@ -1,11 +1,11 @@
 {
  "api": "http://api.noobs-api.rf.gd/dipto",
  "apis":[
-    "http://api.noobs-api.rf.gd/dipto",
-    "http://api.noobs-api.rf.gd/",
-    "http://api.noobs-api.rf.gd//dipto",
+    "https://www.noobs-api.rf.gd/dipto",
+    "https://www.noobz-api.rf.gd/",
+    "https://www.noobs-api.rf.gd//dipto",
     "https://rest-api-2-d3np.onrender.com/dipto",
-    "http://api.noobs-api.rf.gd/dipto",
+    "https://www.noobs-api.rf.gd/dipto",
     "https://2l8v4r-10000.csb.app/dipto",
     "https://www.x-noobs-apis.42web.io",
     "https://www.x-noobs-apis.42web.io/mostakim",
@@ -24,6 +24,18 @@
   "xnil2": "https://xn.xn.xn.kesug.com/xnil",
   "mostakim":"https://www.x-noobs-api.42web.io/",
   "nazrul": "https://www.x-noobs-apis.000.pe",
-  "noob": "http://api.noobs-api.rf.gd",
-  "romim": "https://www.noobz-api.rf.gd/"
+  "noob": "https://www.noobs-apis.rf.gd",
+  "romim": "https://www.noobz-api.rf.gd/",
+
+  "dp": "https://mahmud-cdp-apis.onrender.com",
+   "age": "https://mahmud-age-apis.onrender.com",
+   "sing": "https://mahmud-sing-apis.onrender.com",
+"emojimix": "https://mahmud-emojimix-apis.onrender.com",
+"font": "https://mahmud-style-apis.onrender.com",
+"anisr": "https://mahmud-anisrx.onrender.com",
+"prompt": "https://mahmud-prompt.onrender.com",
+"album": "https://mahmud-album7.onrender.com",
+"mahmud": "https://mahmud-global-apis.onrender.com",
+"jan": "https://mahmud-global-apis.onrender.com/api",
+"sh4n":"https://sh-ans-api-07.vercel.app"
 }
