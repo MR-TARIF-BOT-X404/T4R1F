@@ -1,0 +1,16 @@
+{
+  "bangla": [
+    {
+      "question": "বাংলাদেশের জাতীয় ফুল কী?",
+      "options": { "a": "জুঁই", "b": "গোলাপ", "c": "শাপলা", "d": "সূর্যমুখী" },
+      "answer": "c"
+    }
+  ],
+  "english": [
+    {
+      "question": "What is the capital of Bangladesh?",
+      "options": { "a": "Dhaka", "b": "Chattogram", "c": "Sylhet", "d": "Khulna" },
+      "answer": "a"
+    }
+  ]
+}
