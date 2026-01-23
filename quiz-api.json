@@ -1,16 +1,161 @@
 {
-  "bangla": [
+  "is": [
     {
-      "question": "বাংলাদেশের জাতীয় ফুল কী?",
-      "options": { "a": "জুঁই", "b": "গোলাপ", "c": "শাপলা", "d": "সূর্যমুখী" },
+      "question": "কুরআনের প্রথম সূরা কোনটি?",
+      "options": { "a": "আল-ফাতিহা", "b": "ইখলাস", "c": "নাস", "d": "ফালাক" },
+      "answer": "a"
+    },
+    {
+      "question": "কুরআনে মোট সূরা কতটি?",
+      "options": { "a": "১১০", "b": "১১৪", "c": "১২০", "d": "১০০" },
+      "answer": "b"
+    },
+    {
+      "question": "কুরআনের শেষ সূরা কোনটি?",
+      "options": { "a": "কাউসার", "b": "ইখলাস", "c": "ফালাক", "d": "নাস" },
+      "answer": "d"
+    },
+    {
+      "question": "ইসলামের মূল ভিত্তি কতটি?",
+      "options": { "a": "৩টি", "b": "৫টি", "c": "৭টি", "d": "১০টি" },
+      "answer": "b"
+    },
+    {
+      "question": "ইসলামের প্রথম স্তম্ভ কোনটি?",
+      "options": { "a": "কালিমা", "b": "সালাত", "c": "সাওম", "d": "হজ" },
+      "answer": "a"
+    },
+    {
+      "question": "দিনে কয় ওয়াক্ত নামাজ ফরজ?",
+      "options": { "a": "৩", "b": "৪", "c": "৫", "d": "৬" },
       "answer": "c"
+    },
+    {
+      "question": "রমজান মাসে কী ফরজ?",
+      "options": { "a": "যাকাত", "b": "রোজা", "c": "হজ", "d": "কুরবানি" },
+      "answer": "b"
+    },
+    {
+      "question": "যাকাত কার উপর ফরজ?",
+      "options": { "a": "নিসাব সম্পদশালী মুসলমান", "b": "দরিদ্র", "c": "শিশু", "d": "অমুসলিম" },
+      "answer": "a"
+    },
+    {
+      "question": "হজ কোথায় অনুষ্ঠিত হয়?",
+      "options": { "a": "মদিনা", "b": "মক্কা", "c": "জেরুজালেম", "d": "কুফা" },
+      "answer": "b"
+    },
+    {
+      "question": "কাবা শরীফ কোথায়?",
+      "options": { "a": "মসজিদে নববী (মদিনা)", "b": "আল-আকসা (জেরুজালেম)", "c": "মসজিদুল হারাম (মক্কা)", "d": "কুফা" },
+      "answer": "c"
+    },
+    {
+      "question": "মসজিদে নববী কোথায়?",
+      "options": { "a": "মক্কা", "b": "জেদ্দা", "c": "তায়েফ", "d": "মদিনা" },
+      "answer": "d"
+    },
+    {
+      "question": "হিজরি সনের সূচনা কোন ঘটনাকে কেন্দ্র করে?",
+      "options": { "a": "মিরাজ", "b": "হিজরত", "c": "বদর যুদ্ধ", "d": "উহুদ যুদ্ধ" },
+      "answer": "b"
+    },
+    {
+      "question": "মুহাম্মদ (সা.) এর জন্মস্থান কোথায়?",
+      "options": { "a": "মদিনা", "b": "মক্কা", "c": "দামেস্ক", "d": "কুফা" },
+      "answer": "b"
+    },
+    {
+      "question": "ইসলামের প্রথম খলিফা কে ছিলেন?",
+      "options": { "a": "হযরত উমর (রা.)", "b": "হযরত আলী (রা.)", "c": "হযরত আবু বকর (রা.)", "d": "হযরত উসমান (রা.)" },
+      "answer": "c"
+    },
+    {
+      "question": "আযান কে প্রথম দেন?",
+      "options": { "a": "হযরত বিলাল (রা.)", "b": "হযরত আবু হুরাইরা (রা.)", "c": "হযরত সালমান ফারসি (রা.)", "d": "হযরত খালিদ (রা.)" },
+      "answer": "a"
+    },
+    {
+      "question": "মিরাজে কোন ইবাদত ফরজ হয়?",
+      "options": { "a": "রোজা", "b": "হজ", "c": "যাকাত", "d": "নামাজ" },
+      "answer": "d"
+    },
+    {
+      "question": "লাইলাতুল কদর কোন মাসে?",
+      "options": { "a": "মুহাররম", "b": "রমজান", "c": "রজব", "d": "শাওয়াল" },
+      "answer": "b"
+    },
+    {
+      "question": "ঈদুল ফিতর কোন ইবাদতের পর আসে?",
+      "options": { "a": "রোজা", "b": "হজ", "c": "কুরবানি", "d": "যাকাত" },
+      "answer": "a"
+    },
+    {
+      "question": "ঈদুল আযহা কোন ইবাদতের সাথে সম্পর্কিত?",
+      "options": { "a": "রোজা", "b": "তারাবি", "c": "ইতিকাফ", "d": "হজ" },
+      "answer": "d"
+    },
+    {
+      "question": "যে মাসে কুরআন নাজিল হয়েছে?",
+      "options": { "a": "রমজান", "b": "শাওয়াল", "c": "রজব", "d": "মুহাররম" },
+      "answer": "a"
+    },
+    {
+      "question": "বদর যুদ্ধ কোন হিজরিতে হয়?",
+      "options": { "a": "১ হিজরি", "b": "২ হিজরি", "c": "৩ হিজরি", "d": "৫ হিজরি" },
+      "answer": "b"
     }
   ],
-  "english": [
+  "en": [
     {
       "question": "What is the capital of Bangladesh?",
       "options": { "a": "Dhaka", "b": "Chattogram", "c": "Sylhet", "d": "Khulna" },
       "answer": "a"
+    },
+    {
+      "question": "Which direction does the sun rise from?",
+      "options": { "a": "West", "b": "East", "c": "North", "d": "South" },
+      "answer": "b"
+    },
+    {
+      "question": "How many days are there in a week?",
+      "options": { "a": "5", "b": "6", "c": "7", "d": "8" },
+      "answer": "c"
+    },
+    {
+      "question": "What is H2O?",
+      "options": { "a": "Water", "b": "Salt", "c": "Sugar", "d": "Oxygen" },
+      "answer": "a"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": { "a": "Venus", "b": "Mars", "c": "Jupiter", "d": "Mercury" },
+      "answer": "b"
+    },
+    {
+      "question": "What is the largest continent?",
+      "options": { "a": "Europe", "b": "Africa", "c": "Asia", "d": "Australia" },
+      "answer": "c"
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "options": { "a": "Atlantic", "b": "Pacific", "c": "Indian", "d": "Arctic" },
+      "answer": "b"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "options": { "a": "0", "b": "50", "c": "100", "d": "200" },
+      "answer": "c"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": { "a": "William Shakespeare", "b": "Charles Dickens", "c": "Mark Twain", "d": "Jane Austen" },
+      "answer": "a"
+    },
+    {
+      "question": "Which animal is known as the King of the Jungle?",
+      "options": { "a": "Tiger", "b": "Lion", "c": "Elephant", "d": "Giraffe" },
+      "answer": "b"
     }
   ]
 }
