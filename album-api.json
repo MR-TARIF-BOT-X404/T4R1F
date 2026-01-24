@@ -1,51 +1,30 @@
 {
   "messi": [
-    { "title": "Messi 1", "url": "PUT_URL_HERE" },
-    { "title": "Messi 2", "url": "PUT_URL_HERE" },
-    { "title": "Messi 3", "url": "PUT_URL_HERE" },
-    { "title": "Messi 4", "url": "PUT_URL_HERE" },
-    { "title": "Messi 5", "url": "PUT_URL_HERE" }
+    { "title": "Messi 1", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" },
+    { "title": "Messi 2", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" }
   ],
   "neymar": [
-    { "title": "Neymar 1", "url": "PUT_URL_HERE" },
-    { "title": "Neymar 2", "url": "PUT_URL_HERE" },
-    { "title": "Neymar 3", "url": "PUT_URL_HERE" },
-    { "title": "Neymar 4", "url": "PUT_URL_HERE" },
-    { "title": "Neymar 5", "url": "PUT_URL_HERE" }
+    { "title": "Neymar 1", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" },
+    { "title": "Neymar 2", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" }
   ],
   "ronaldo": [
-    { "title": "Ronaldo 1", "url": "PUT_URL_HERE" },
-    { "title": "Ronaldo 2", "url": "PUT_URL_HERE" },
-    { "title": "Ronaldo 3", "url": "PUT_URL_HERE" },
-    { "title": "Ronaldo 4", "url": "PUT_URL_HERE" },
-    { "title": "Ronaldo 5", "url": "PUT_URL_HERE" }
+    { "title": "Ronaldo 1", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" },
+    { "title": "Ronaldo 2", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" }
   ],
   "love": [
-    { "title": "Love 1", "url": "PUT_URL_HERE" },
-    { "title": "Love 2", "url": "PUT_URL_HERE" },
-    { "title": "Love 3", "url": "PUT_URL_HERE" },
-    { "title": "Love 4", "url": "PUT_URL_HERE" },
-    { "title": "Love 5", "url": "PUT_URL_HERE" }
+    { "title": "Love 1", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" },
+    { "title": "Love 2", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" }
   ],
   "sad": [
-    { "title": "Sad 1", "url": "PUT_URL_HERE" },
-    { "title": "Sad 2", "url": "PUT_URL_HERE" },
-    { "title": "Sad 3", "url": "PUT_URL_HERE" },
-    { "title": "Sad 4", "url": "PUT_URL_HERE" },
-    { "title": "Sad 5", "url": "PUT_URL_HERE" }
+    { "title": "Sad 1", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" },
+    { "title": "Sad 2", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" }
   ],
   "funny": [
-    { "title": "Funny 1", "url": "PUT_URL_HERE" },
-    { "title": "Funny 2", "url": "PUT_URL_HERE" },
-    { "title": "Funny 3", "url": "PUT_URL_HERE" },
-    { "title": "Funny 4", "url": "PUT_URL_HERE" },
-    { "title": "Funny 5", "url": "PUT_URL_HERE" }
+    { "title": "Funny 1", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" },
+    { "title": "Funny 2", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" }
   ],
   "girl": [
-    { "title": "Girl 1", "url": "PUT_URL_HERE" },
-    { "title": "Girl 2", "url": "PUT_URL_HERE" },
-    { "title": "Girl 3", "url": "PUT_URL_HERE" },
-    { "title": "Girl 4", "url": "PUT_URL_HERE" },
-    { "title": "Girl 5", "url": "PUT_URL_HERE" }
+    { "title": "Girl 1", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" },
+    { "title": "Girl 2", "url": "PUT_IMAGE_OR_VIDEO_URL_HERE" }
   ]
 }
