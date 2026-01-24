@@ -60,13 +60,6 @@
     "https://i.imgur.com/ThgcctT.mp4",
     "https://i.imgur.com/lEHhuzm.mp4"
   ],
-  "love": [
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4"
-  ],
   "sad": [
     "https://i.imgur.com/48NyR5a.mp4",
     "https://i.imgur.com/JHi8WQB.mp4",
@@ -82,19 +75,5 @@
     "https://i.imgur.com/uHOZysb.mp4",
     "https://i.imgur.com/LFbVfvH.mp4",
     "https://i.imgur.com/LFbVfvH.mp4"
-  ],
-  "funny": [
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4"
-  ],
-  "girl": [
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4",
-    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ]
 }
