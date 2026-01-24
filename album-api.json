@@ -1,51 +1,51 @@
 {
   "messi": [
-    { "url": "PUT_DIRECT_URL_1.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_2.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_3.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_4.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_5.jpg", "type": "image" }
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ],
   "neymar": [
-    { "url": "PUT_DIRECT_URL_1.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_2.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_3.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_4.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_5.jpg", "type": "image" }
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ],
   "ronaldo": [
-    { "url": "PUT_DIRECT_URL_1.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_2.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_3.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_4.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_5.jpg", "type": "image" }
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ],
   "love": [
-    { "url": "PUT_DIRECT_URL_1.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_2.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_3.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_4.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_5.jpg", "type": "image" }
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ],
   "sad": [
-    { "url": "PUT_DIRECT_URL_1.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_2.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_3.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_4.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_5.jpg", "type": "image" }
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ],
   "funny": [
-    { "url": "PUT_DIRECT_URL_1.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_2.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_3.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_4.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_5.jpg", "type": "image" }
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ],
   "girl": [
-    { "url": "PUT_DIRECT_URL_1.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_2.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_3.mp4", "type": "video" },
-    { "url": "PUT_DIRECT_URL_4.jpg", "type": "image" },
-    { "url": "PUT_DIRECT_URL_5.jpg", "type": "image" }
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4",
+    "PUT_DIRECT_MP4_URL_HERE.mp4"
   ]
 }
