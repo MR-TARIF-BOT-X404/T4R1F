@@ -15,5 +15,8 @@
   "ignoreBot": true,
   "ignoreSelf": true,
   "delay": 0,
-  "trigger": "A-Z"
+
+  "triggerText": true,
+  "triggerEmoji": true,
+  "triggerAllEmoji": true
 }
